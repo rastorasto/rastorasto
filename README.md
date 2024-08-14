@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![:name](https://count.getloli.com/get/@:rasto?theme=moebooru)
+
 <!--
 **rastorasto/rastorasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
