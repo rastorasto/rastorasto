@@ -1,8 +1,8 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-<div align="center">
-![:name](https://count.getloli.com/get/@:rasto?theme=moebooru)
-</div>
+<p align="center">
+  <img src="https://count.getloli.com/get/@:rasto?theme=moebooru" alt=":name">
+</p>
 
 <!--
 **rastorasto/rastorasto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
