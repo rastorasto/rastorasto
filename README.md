@@ -1,3 +1,3 @@
-## hey, I' Rasto 👋
+## hey, I'm Rasto 👋
 
 Bachelor's student at **FIT VUT Brno**.
